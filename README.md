@@ -51,12 +51,12 @@ pip install -r requirements.txt
    Project Structure
 
    chekhov_project
-- texts/                ← Folder containing the text files
-- The_Bet.txt           ←Text file for analysis(The Bet by A.Checkhov)
-- images/               ← Folder to store generated word clouds
-- main.py               ← Main script for text processing and analysis
-- requirements.txt      ← List of project dependencies
-- .gitignore            ← Ignores venv
+- texts/                -> Folder containing the text files
+- The_Bet.txt           ->Text file for analysis(The Bet by A.Checkhov)
+- images/               -> Folder to store generated word clouds
+- main.py               -> Main script for text processing and analysis
+- requirements.txt      -> List of project dependencies
+- .gitignore            -> Ignores venv
 
 Example Output
 
