@@ -60,13 +60,13 @@ pip install -r requirements.txt
 
 Example Output
 
-Upon running the script, the following will be generated:
+After executing the script it will generate:
 
-    A word cloud image based on the frequency of words in "The Bet".
+    - A word cloud image based on the frequency of words in "The Bet".
 
-    A list of top bigrams (word pairs) that appear most frequently in the text.
+    -A list of top bigrams (word pairs) that appear most frequently in the text.
 
-    The TF-IDF values for the top 5 most important words in the text.
+    - The TF-IDF values for the top 5 most important words in the text.
 
 Special Thanks
 
