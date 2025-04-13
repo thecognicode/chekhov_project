@@ -1,6 +1,8 @@
 Text Processing and Word Cloud Generation from "The Bet" by Anton Chekhov
 
 
+
+
 This project focuses on text processing and natural language processing (NLP) techniques applied to Anton Chekhov's short story "The Bet" from Project Gutenberg. The goal is to analyze the text by tokenizing, generating word clouds, and comparing key linguistic features across the document. Additionally, the project explores the use of TF-IDF (Term Frequency-Inverse Document Frequency) for identifying the most significant words in the text, along with bigram analysis to capture common word pairings.
 Objectives
 
