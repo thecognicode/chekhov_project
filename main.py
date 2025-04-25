@@ -65,7 +65,7 @@ if __name__ == "__main__":
     for i, tokens in enumerate(processed_texts):
         print(f"Пример токенов для текста {i+1}: {tokens[:10]}")
         if not tokens:
-            print("⚠️ Внимание: после предобработки текст стал пустым!")
+            print("Внимание: после предобработки текст стал пустым!")
 
     
     for i, tokens in enumerate(processed_texts[:2]):
