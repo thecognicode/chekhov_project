@@ -4,22 +4,27 @@
 
 
 This project focuses on text processing and natural language processing (NLP) techniques applied to Anton Chekhov's short story "The Bet" from Project Gutenberg. The goal is to analyze the text by tokenizing, generating word clouds, and comparing key linguistic features across the document. Additionally, the project explores the use of TF-IDF (Term Frequency-Inverse Document Frequency) for identifying the most significant words in the text, along with bigram analysis to capture common word pairings.
-Objectives
 
-Text Preprocessing: Breaking the text into smaller pieces (tokens) and cleaning it by removing unnecessary characters.
+##  What This Project Does
 
-Word Cloud Generation: Creating a visual image showing which words appear most often in the text.
+- **Cleans and Preps the Text**  
+  Breaks the text into smaller parts (tokens) and removes punctuation and unnecessary characters.
 
-Bigram Analysis: Finding the most common pairs of words (two words next to each other) in the text.
+- **Builds a Word Cloud**  
+  Creates a visual where frequently used words appear larger—quickly showing what the text is about.
 
-TF-IDF Analysis: Identifying important words by calculating their relevance in the text.
+- **Finds Common Word Pairs (Bigrams)**  
+  Identifies which two-word combinations show up most often next to each other.
 
-Visualization: Displaying word clouds and showing the most common word pairs to better understand the text.
+- **Highlights Key Terms with TF-IDF**  
+  Uses TF-IDF to spot the most important words—not just frequent, but meaningful in context.
+
+- **Visualizes the Results**  
+  Generates word clouds and bar charts to help you understand the text at a glance.
 
 
-Tools and Libraries
 
-The project utilizes the following libraries:
+## Tools and Libraries
 
     Python
 
@@ -31,7 +36,7 @@ The project utilizes the following libraries:
 
     NLTK/Regex
 
-Setup Instructions
+## Getting Started
 
 1. Clone the Repository
 To set up the project locally, follow the steps below:
@@ -48,7 +53,7 @@ pip install -r requirements.txt
 4. Running the Script
    python main.py
 
-   Project Structure
+  ## Project Structure
 
    chekhov_project
 - texts/                -> Folder containing the text files
@@ -60,7 +65,7 @@ pip install -r requirements.txt
 
 Example Output
 
-After executing the script it will generate:
+## After executing the script it will generate:
 
     - A word cloud image based on the frequency of words in "The Bet".
 
@@ -68,7 +73,7 @@ After executing the script it will generate:
 
     - The TF-IDF values for the top 5 most important words in the text.
 
-Special Thanks
+## Special Thanks
 
     Project Gutenberg for making Chekhov’s works freely available.
 
