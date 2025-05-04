@@ -75,7 +75,7 @@ Example Output
 
 ## Special Thanks
 
-    Project Gutenberg for making Chekhov’s works freely available.
+    Project Gutenberg for making Anton Chekhov’s works freely available.
 
 
 
