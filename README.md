@@ -40,7 +40,7 @@ This project focuses on text processing and natural language processing (NLP) te
 
 1. Clone the Repository
 To set up the project locally, follow the steps below:
-git clone https://github.com/katiz1/chekhov-text-analysis.git
+git clone https://github.com/thecognicode/chekhov_project.git
 cd chekhov-text-analysis
 
 2. Set Up a Virtual Environment
