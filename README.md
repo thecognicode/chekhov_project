@@ -42,7 +42,7 @@ This project focuses on text processing and natural language processing (NLP) te
 To set up the project locally, follow the steps below:
 git clone https://github.com/thecognicode/chekhov_project.git
 
-cd chekhov-text-analysis
+   cd chekhov-text-analysis
 
 3. Set Up a Virtual Environment
 python -m venv venv
