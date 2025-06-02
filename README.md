@@ -41,16 +41,17 @@ This project focuses on text processing and natural language processing (NLP) te
 1. Clone the Repository
 To set up the project locally, follow the steps below:
 git clone https://github.com/thecognicode/chekhov_project.git
+
 cd chekhov-text-analysis
 
-2. Set Up a Virtual Environment
+3. Set Up a Virtual Environment
 python -m venv venv
 source venv/bin/activate or if you're using Windows `venv\Scripts\activate`
 
-3. Install Dependencies
+4. Install Dependencies
 pip install -r requirements.txt
 
-4. Running the Script
+5. Running the Script
    python main.py
 
   ## Project Structure
