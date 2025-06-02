@@ -6,8 +6,8 @@ from wordcloud import WordCloud
 import matplotlib.pyplot as plt
 
 
-print("Текущая рабочая директория:", os.getcwd())
-print("Содержимое папки 'texts':", os.listdir("texts"))
+print(os.getcwd())
+print(os.listdir("texts"))
 
 
 def load_texts(folder_path):
